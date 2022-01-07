@@ -1,6 +1,3 @@
-# test-portfolio
-<<<<<<< HEAD
-
 ## Build Setup
 
 ```bash

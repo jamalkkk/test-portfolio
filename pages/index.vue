@@ -1,5 +1,5 @@
 <template>
-   <FirstComponent/>
+   <Tutorial/>
 </template>
 
 <script>
@@ -8,3 +8,4 @@ export default {
     name: "IndexPage",
 }
 </script>
+ 
